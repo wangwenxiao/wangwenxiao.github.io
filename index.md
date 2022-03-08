@@ -12,7 +12,7 @@ I was a research assistant at IIIS, Tsinghua University (2020-2021), working wit
 
 ## Preprints
 **Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation**  
-**Wenxiao Wang**, Alex Levine and Soheil Feizi  
+**Wenxiao Wang**, Alexander Levine and Soheil Feizi  
 [[paper]](https://arxiv.org/pdf/2202.02628.pdf)
 
 ## Publications
