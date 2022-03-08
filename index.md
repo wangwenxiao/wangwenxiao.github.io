@@ -39,4 +39,4 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [**oral*
 **Leveraging Unlabeled Data for Watermark Removal of Deep Neural Networks**  
 Xinyun Chen\*, **Wenxiao Wang**\*, Yiming Ding, Chris Bender, Ruoxi Jia, Bo Li, Dawn Song (\*equal contribution)  
 ICML Workshop on Security and Privacy of Machine Learning, 2019.  
-[paper](https://wangwenxiao.github.io/files/watermark_removal_icml19_workshop.pdf)
+[[paper]](https://wangwenxiao.github.io/files/watermark_removal_icml19_workshop.pdf)
