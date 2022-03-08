@@ -1,1 +1,0 @@
-xfun::embed_file("https://wangwenxiao.github.io/files/resume_cv.pdf")

@@ -12,6 +12,8 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Resume
+      slug: files/resume_cv.pdf
 #    - name: Publications
 #    - name: Blog
 
