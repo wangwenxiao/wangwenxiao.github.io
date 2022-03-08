@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 
-Hi! I am Wenxiao Wang (汪文潇), a 1st-year CS Ph.D. student at University of Maryland. I received my B.S. degree in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2020.
+Hi! I am Wenxiao Wang (汪文潇), a 1st-year CS Ph.D. student at University of Maryland, working with Prof. [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/). I received my B.S. degree in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2020.
 
 I was a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
 
@@ -39,4 +39,4 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [**oral*
 **Leveraging Unlabeled Data for Watermark Removal of Deep Neural Networks**  
 Xinyun Chen\*, **Wenxiao Wang**\*, Yiming Ding, Chris Bender, Ruoxi Jia, Bo Li, Dawn Song (\*equal contribution)  
 ICML Workshop on Security and Privacy of Machine Learning, 2019.  
-[[paper]](https://wangwenxiao.github.io/files/watermark_removal_icml19_workshop.pdf)
+[paper](https://wangwenxiao.github.io/files/watermark_removal_icml19_workshop.pdf)
