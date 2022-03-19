@@ -19,7 +19,7 @@ I was a research assistant at IIIS, Tsinghua University (2020-2021), working wit
 **On Feature Decorrelation in Self-Supervised Learning**  
 Tianyu Hua\*, **Wenxiao Wang**\*, Zihui Xue, Sucheng Ren, Yue Wang, Hang Zhao (\*equal contribution)  
 International Conference on Computer Vision (**ICCV**), 2021. [**oral**]  
-[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html)  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html) [[code]](https://github.com/PatrickHua/FeatureDecorrelationSSL)  
 
 **DPlis: Boosting Utility of Differentially Private Deep Learning via Randomized Smoothing**  
 **Wenxiao Wang**, Tianhao Wang, Lun Wang, Nanqing Luo, Pan Zhou, Dawn Song, Ruoxi Jia  
