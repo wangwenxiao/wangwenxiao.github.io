@@ -20,7 +20,7 @@ I was a research assistant at IIIS, Tsinghua University (2020-2021), working wit
 **Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation**  
 **<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
 International Conference on Machine Learning (**ICML**), 2022.  
-[[paper]](https://proceedings.mlr.press/v162/wang22m.html)
+[[paper]](https://proceedings.mlr.press/v162/wang22m.html) [[code]](https://github.com/wangwenxiao/FiniteAggregation)  
 
 **On Feature Decorrelation in Self-Supervised Learning**  
 Tianyu Hua\*, **<u>Wenxiao Wang</u>**\*, Zihui Xue, Sucheng Ren, Yue Wang, Hang Zhao (\*equal contribution)  
