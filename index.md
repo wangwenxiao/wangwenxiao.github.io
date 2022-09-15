@@ -12,11 +12,14 @@ I am now a research intern at Bytedance (summer 2022).
 I was a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
 
 ## Preprints
-**Lethal Dose Conjecture on Data Poisoning**  
-**<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
-[[paper]](https://arxiv.org/abs/2208.03309)
+
 
 ## Publications
+**Lethal Dose Conjecture on Data Poisoning**  
+**<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
+Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  
+[[paper]](https://arxiv.org/abs/2208.03309)
+
 **Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation**  
 **<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
 International Conference on Machine Learning (**ICML**), 2022.  
