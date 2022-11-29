@@ -32,7 +32,7 @@ International Conference on Computer Vision (**ICCV**), 2021. [**oral**]
 **DPlis: Boosting Utility of Differentially Private Deep Learning via Randomized Smoothing**  
 **<u>Wenxiao Wang</u>**, Tianhao Wang, Lun Wang, Nanqing Luo, Pan Zhou, Dawn Song, Ruoxi Jia  
 Privacy Enhancing Technologies Symposium (**PETS**), 2021.  
-[[paper]](https://sciendo.com/article/10.2478/popets-2021-0065) [[code]](https://github.com/wangwenxiao/DPlis)
+[[paper]](https://www.petsymposium.org/2021/files/papers/issue4/popets-2021-0065.pdf) [[code]](https://github.com/wangwenxiao/DPlis)
 
 **REFIT: A Unified Watermark Removal Framework For Deep Learning Systems With Limited Data**  
 Xinyun Chen\*, **<u>Wenxiao Wang</u>**\*, Yiming Ding, Chris Bender, Ruoxi Jia, Bo Li, Dawn Song (\*equal contribution)  
