@@ -48,3 +48,17 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [**oral*
 Xinyun Chen\*, **<u>Wenxiao Wang</u>**\*, Yiming Ding, Chris Bender, Ruoxi Jia, Bo Li, Dawn Song (\*equal contribution)  
 ICML Workshop on Security and Privacy of Machine Learning, 2019.  
 [[paper]](https://wangwenxiao.github.io/files/watermark_removal_icml19_workshop.pdf)
+
+## Talks
+- **Lethal Dose Conjecture: From Few-shot Learning to Potentially Nearly Optimal Defenses
+against Data Poisoning**, TMLR Group, Hong Kong Baptist University, December 2022.
+
+## Services
+Program Committee / Reviewer of:
+- TPAMI
+- NeurIPS 2022
+- ICML2022 (Outstanding Reviewer)
+- Workshop on Adversarial Robustness In the Real World (ECCV 2022,ICCV 2021)
+- Workshop on Socially Responsible Machine Learning (ICML 2021)
+- Workshop on Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges (CVPR 2021)
+- Workshop on Security and Safety in Machine Learning Systems (ICLR 2021)
