@@ -15,6 +15,10 @@ I was a research intern at Bytedance (summer 2022); a research assistant at IIIS
 **<u>Wenxiao Wang</u>** and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2302.03684)
 
+**Spuriosity Rankings: Sorting Data for Spurious Correlation Robustness**  
+Mazda Moayeri, **<u>Wenxiao Wang</u>**, Sahil Singla and Soheil Feizi  
+[[arxiv]](https://arxiv.org/abs/2212.02648)
+
 ## Publications
 **Lethal Dose Conjecture on Data Poisoning**  
 **<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
