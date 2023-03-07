@@ -23,7 +23,7 @@ Mazda Moayeri, **<u>Wenxiao Wang</u>**, Sahil Singla and Soheil Feizi
 **Lethal Dose Conjecture on Data Poisoning**  
 **<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  
-[[paper]](https://arxiv.org/abs/2208.03309)
+[[paper]](https://arxiv.org/abs/2208.03309) [[code]](https://github.com/wangwenxiao/FiniteAggregation)
 
 **Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation**  
 **<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
