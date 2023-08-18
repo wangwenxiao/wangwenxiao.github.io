@@ -18,6 +18,7 @@ I am now a research intern at Sony AI for summer 2023. I was a research intern a
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2303.11156)
+
 Media Coverage: 
 [[Washington Post]](https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/)
 [[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)
