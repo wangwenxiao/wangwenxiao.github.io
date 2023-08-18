@@ -17,14 +17,15 @@ I am now a research intern at Sony AI for summer 2023. I was a research intern a
 
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
-[[arxiv]](https://arxiv.org/abs/2303.11156)
-
 Media Coverage: 
 [[Washington Post]](https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/)
 [[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)
 [[New Scientist]](https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/)
 [[The Register]](https://www.theregister.com/2023/03/21/detecting_ai_generated_text/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article)
-[[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)
+[[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)  
+[[arxiv]](https://arxiv.org/abs/2303.11156)
+
+
 
 **Temporal Robustness against Data Poisoning**  
 **<u>Wenxiao Wang</u>** and Soheil Feizi  
