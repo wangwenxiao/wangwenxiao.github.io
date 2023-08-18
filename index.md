@@ -18,6 +18,12 @@ I am now a research intern at Sony AI for summer 2023. I was a research intern a
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2303.11156)
+Media Coverage: 
+[[Washington Post]](https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/)
+[[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)
+[[New Scientist]](https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/)
+[[The Register]](https://www.theregister.com/2023/03/21/detecting_ai_generated_text/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article)
+[[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)
 
 **Temporal Robustness against Data Poisoning**  
 **<u>Wenxiao Wang</u>** and Soheil Feizi  
@@ -70,7 +76,7 @@ against Data Poisoning**, TMLR Group, Hong Kong Baptist University, December 202
 ## Services
 Program Committee / Reviewer of:
 - TPAMI
-- NeurIPS 2022
+- NeurIPS 2022, 2023
 - ICML 2022, 2023 (Outstanding Reviewer in 2022)
 - Workshop on Adversarial Robustness In the Real World (ECCV 2022,ICCV 2021)
 - Workshop on Socially Responsible Machine Learning (ICML 2021)
