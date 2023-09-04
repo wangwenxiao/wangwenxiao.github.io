@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 
-Hi! I am Wenxiao Wang (汪文潇), a 2nd-year CS Ph.D. student at University of Maryland, working with Prof. [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/). I received my B.S. degree in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2020.
+Hi! I am Wenxiao Wang (汪文潇), a Computer Science Ph.D. student at University of Maryland, working with Prof. [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/). I received my B.S. degree in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2020.
 
-I am now a research intern at Sony AI for summer 2023. I was a research intern at Bytedance (summer 2022); a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with Dr. [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Dr. Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
+I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhuang](https://weiming.me) and Dr. [Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home?pli=1) in Privacy-Preserving Machine Learning (PPML) team; I was a research intern at Bytedance (summer 2022); a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with Dr. [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Dr. Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
 
 ## Preprints
 **On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**  
