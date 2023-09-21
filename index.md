@@ -35,7 +35,7 @@ Conference on Neural Information Processing Systems (**NeurIPS**), 2023.
 
 **Spuriosity Rankings: Sorting Data for Spurious Correlation Robustness**  
 Mazda Moayeri, **<u>Wenxiao Wang</u>**, Sahil Singla and Soheil Feizi  
-Conference on Neural Information Processing Systems (**NeurIPS**), 2023.  [**spotlight**] 
+Conference on Neural Information Processing Systems (**NeurIPS**), 2023. [**spotlight**]  
 [[arxiv]](https://arxiv.org/abs/2212.02648)
 
 **Lethal Dose Conjecture on Data Poisoning**  
