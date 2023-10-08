@@ -19,6 +19,10 @@ Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegi
 **<u>Wenxiao Wang</u>** and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2306.16415)
 
+**DRSM: De-Randomized Smoothing on Malware Classifier Providing Certified Robustness**  
+Shoumik Saha, **<u>Wenxiao Wang</u>**, Yigitcan Kaya, Soheil Feizi and Tudor Dumitras  
+[[arxiv]](https://arxiv.org/abs/2303.13372)
+
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
 Media Coverage: 
