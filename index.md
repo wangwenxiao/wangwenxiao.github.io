@@ -88,8 +88,12 @@ ICML Workshop on Security and Privacy of Machine Learning, 2019.
 [[paper]](https://wangwenxiao.github.io/files/watermark_removal_icml19_workshop.pdf)
 
 ## Talks
+- **Temporal Robustness against Data Poisoning**, AI TIME Youth PhD Talk, November 2023.
 - **Lethal Dose Conjecture: From Few-shot Learning to Potentially Nearly Optimal Defenses
 against Data Poisoning**, TMLR Group, Hong Kong Baptist University, December 2022.
+- **Lethal Dose Conjecture on Data Poisoning**, AI TIME Youth PhD Talk, November 2022.
+- **Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation**, AI TIME Youth PhD Talk, August 2022.
+
 
 ## Services
 Program Committee / Reviewer of:
