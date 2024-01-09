@@ -8,11 +8,16 @@ profile_picture:
 
 Hi! I am Wenxiao Wang (汪文潇), a Computer Science Ph.D. student at University of Maryland, working with Prof. [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/). I received my B.S. degree in Computer Science from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2020.
 
-I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhuang](https://weiming.me) and Dr. [Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home?pli=1) in Privacy-Preserving Machine Learning (PPML) team; I was a research intern at Bytedance (summer 2022); a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with Dr. [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Dr. Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
+I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhuang](https://weiming.me) and Dr. [Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home?pli=1) in Privacy-Preserving Machine Learning (PPML) team; I was a research intern at Bytedance (summer 2022), working with Dr. [Linjie Yang](https://sites.google.com/site/linjieyang89/), Dr. [Heng Wang](https://hengcv.github.io) and Dr. [Yu Tian](https://scholar.google.com/citations?user=DxPjkDoAAAAJ); a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with Dr. [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Dr. Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
 
 ## Preprints
 **Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks**  
 Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, **<u>Wenxiao Wang</u>** and Soheil Feizi  
+Media Coverage: 
+[[Wired]](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
+[[MIT Tech Review]](https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/)
+[[Bloomberg News]](https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes)
+[[The Register]](https://www.theregister.com/2023/10/02/watermarking_security_checks/)  
 [[arxiv]](https://arxiv.org/abs/2310.00076)
 
 **On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**  
@@ -27,10 +32,11 @@ Shoumik Saha, **<u>Wenxiao Wang</u>**, Yigitcan Kaya, Soheil Feizi and Tudor Dum
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
 Media Coverage: 
 [[Washington Post]](https://www.washingtonpost.com/technology/2023/06/02/turnitin-ai-cheating-detector-accuracy/)
-[[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)
+[[Wired]](https://www.wired.com/story/ai-detection-chat-gpt-college-students/)
 [[New Scientist]](https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/)
 [[The Register]](https://www.theregister.com/2023/03/21/detecting_ai_generated_text/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article)
-[[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)  
+[[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)
+[[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)  
 [[arxiv]](https://arxiv.org/abs/2303.11156)
 
 
