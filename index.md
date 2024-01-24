@@ -33,28 +33,28 @@ Media Coverage:
 
 **Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks**  
 Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, **<u>Wenxiao Wang</u>** and Soheil Feizi  
-International Conference on Learning Representations (**ICLR**), 2024.  
 Media Coverage: 
 [[Wired]](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 [[MIT Tech Review]](https://www.technologyreview.com/2023/11/06/1082996/the-inside-scoop-on-watermarking-and-content-authentication/)
 [[Bloomberg News]](https://www.bloomberg.com/news/newsletters/2023-11-06/biden-ai-executive-order-shows-urgency-of-deepfakes)
 [[The Register]](https://www.theregister.com/2023/10/02/watermarking_security_checks/)  
-[[arxiv]](https://arxiv.org/abs/2310.00076)
+International Conference on Learning Representations (**ICLR**), 2024.  
+[[paper]](https://arxiv.org/abs/2310.00076)
 
 **DRSM: De-Randomized Smoothing on Malware Classifier Providing Certified Robustness**  
 Shoumik Saha, **<u>Wenxiao Wang</u>**, Yigitcan Kaya, Soheil Feizi and Tudor Dumitras  
 International Conference on Learning Representations (**ICLR**), 2024.  
-[[arxiv]](https://arxiv.org/abs/2303.13372)
+[[paper]](https://arxiv.org/abs/2303.13372)
 
 **Temporal Robustness against Data Poisoning**  
 **<u>Wenxiao Wang</u>** and Soheil Feizi  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2023.  
-[[arxiv]](https://arxiv.org/abs/2302.03684)
+[[paper]](https://arxiv.org/abs/2302.03684)
 
 **Spuriosity Rankings: Sorting Data for Spurious Correlation Robustness**  
 Mazda Moayeri, **<u>Wenxiao Wang</u>**, Sahil Singla and Soheil Feizi  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2023. [**spotlight**]  
-[[arxiv]](https://arxiv.org/abs/2212.02648)
+[[paper]](https://arxiv.org/abs/2212.02648)
 
 **Lethal Dose Conjecture on Data Poisoning**  
 **<u>Wenxiao Wang</u>**, Alexander Levine and Soheil Feizi  
