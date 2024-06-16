@@ -12,6 +12,10 @@ I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhua
 
 ## Preprints
 
+**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**  
+**<u>Wenxiao Wang</u>**, Weiming Zhuang and Lingjuan Lyu  
+[[arxiv]](https://arxiv.org/abs/2406.07536)
+
 **On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**  
 **<u>Wenxiao Wang</u>** and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2306.16415)
