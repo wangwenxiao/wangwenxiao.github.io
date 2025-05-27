@@ -12,14 +12,20 @@ I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhua
 
 ## Preprints
 
+**Gaming Tool Preferences in Agentic LLMs**  
+Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gaurang Sriramanan, Sriram Balasubramanian, Parsa Hosseini and Soheil Feizi(\*equal contribution)  
+[[arxiv]](https://arxiv.org/abs/2505.18135)
+
+**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**  
+**<u>Wenxiao Wang</u>**, Parsa Hosseini and Soheil Feizi  
+[[arxiv]](https://arxiv.org/abs/2504.20769)
+
 **Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**  
 **<u>Wenxiao Wang</u>**, Weiming Zhuang and Lingjuan Lyu  
 [[arxiv]](https://arxiv.org/abs/2406.07536)
 
-**On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**  
-**<u>Wenxiao Wang</u>** and Soheil Feizi  
-[[arxiv]](https://arxiv.org/abs/2306.16415)
 
+## Publications
 
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
@@ -30,10 +36,8 @@ Media Coverage:
 [[The Register]](https://www.theregister.com/2023/03/21/detecting_ai_generated_text/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article)
 [[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)
 [[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)  
-[[arxiv]](https://arxiv.org/abs/2303.11156)
-
-
-## Publications
+Transactions on Machine Learning Research (**TMLR**), 2025
+[[paper]](https://arxiv.org/abs/2303.11156)
 
 **Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks**  
 Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, **<u>Wenxiao Wang</u>** and Soheil Feizi  
@@ -106,8 +110,8 @@ against Data Poisoning**, TMLR Group, Hong Kong Baptist University, December 202
 ## Services
 Program Committee / Reviewer of:
 - TPAMI
-- NeurIPS 2022, 2023
-- ICML 2022, 2023 (Outstanding Reviewer in 2022)
+- NeurIPS 2022, 2023, 2024 (Top Reviewer)
+- ICML 2022, 2023, 2024 (Outstanding Reviewer in 2022)
 - ICLR 2023
 - ICCV 2023
 - Workshop on Adversarial Robustness In the Real World (ECCV 2022,ICCV 2021)
