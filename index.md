@@ -12,6 +12,10 @@ I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhua
 
 ## Preprints
 
+**DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors**  
+Yize Cheng\*, **<u>Wenxiao Wang</u>**\*, Mazda Moayeri and Soheil Feizi (\*equal contribution)  
+[[arxiv]](https://arxiv.org/abs/2505.23001)
+
 **Gaming Tool Preferences in Agentic LLMs**  
 Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gaurang Sriramanan, Sriram Balasubramanian, Parsa Hosseini and Soheil Feizi (\*equal contribution)  
 [[arxiv]](https://arxiv.org/abs/2505.18135)
