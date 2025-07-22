@@ -21,8 +21,8 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: wwx@umd.edu
-      link: mailto:wwx@umd.edu
+      value: wwx@relai.ai
+      link: mailto:wwx@relai.ai
 #    - name: WeChat
 #      value: YourWeChatUsername
 #      link: "#"
