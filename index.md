@@ -13,14 +13,6 @@ I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhua
 
 ## Preprints
 
-**DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors**  
-Yize Cheng\*, **<u>Wenxiao Wang</u>**\*, Mazda Moayeri and Soheil Feizi (\*equal contribution)  
-[[arxiv]](https://arxiv.org/abs/2505.23001)
-
-**Gaming Tool Preferences in Agentic LLMs**  
-Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gaurang Sriramanan, Sriram Balasubramanian, Parsa Hosseini and Soheil Feizi (\*equal contribution)  
-[[arxiv]](https://arxiv.org/abs/2505.18135)
-
 **Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**  
 **<u>Wenxiao Wang</u>**, Parsa Hosseini and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2504.20769)
@@ -32,6 +24,16 @@ Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gauran
 
 ## Publications
 
+**DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors**  
+Yize Cheng\*, **<u>Wenxiao Wang</u>**\*, Mazda Moayeri and Soheil Feizi (\*equal contribution)  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025. [**oral**]  
+[[paper]](https://arxiv.org/abs/2505.23001)
+
+**Gaming Tool Preferences in Agentic LLMs**  
+Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gaurang Sriramanan, Sriram Balasubramanian, Parsa Hosseini and Soheil Feizi (\*equal contribution)  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.  
+[[paper]](https://arxiv.org/abs/2505.18135)
+
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
 Media Coverage: 
@@ -41,7 +43,7 @@ Media Coverage:
 [[The Register]](https://www.theregister.com/2023/03/21/detecting_ai_generated_text/?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article)
 [[TechSpot]](https://www.techspot.com/news/98031-reliable-detection-ai-generated-text-impossible-new-study.html)
 [[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)  
-Transactions on Machine Learning Research (**TMLR**), 2025
+Transactions on Machine Learning Research (**TMLR**), 2025.  
 [[paper]](https://arxiv.org/abs/2303.11156)
 
 **Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks**  
