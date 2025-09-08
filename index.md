@@ -13,6 +13,10 @@ I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhua
 
 ## Preprints
 
+**Maestro: Joint Graph & Config Optimization for Reliable AI Agents**  
+**<u>Wenxiao Wang</u>**, Priyatham Kattakinda and Soheil Feizi  
+[[arxiv]](https://arxiv.org/abs/2509.04642)
+
 **Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**  
 **<u>Wenxiao Wang</u>**, Parsa Hosseini and Soheil Feizi  
 [[arxiv]](https://arxiv.org/abs/2504.20769)
