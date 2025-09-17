@@ -28,6 +28,11 @@ I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhua
 
 ## Publications
 
+**Towards Reliable Agentic LLMs**  
+**<u>Wenxiao Wang</u>**  
+Ph.D. Dissertation, 2025.  
+[[paper]](https://www.proquest.com/docview/3250301036)
+
 **DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors**  
 Yize Cheng\*, **<u>Wenxiao Wang</u>**\*, Mazda Moayeri and Soheil Feizi (\*equal contribution)  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.  
