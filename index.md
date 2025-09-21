@@ -38,7 +38,7 @@ Yize Cheng\*, **<u>Wenxiao Wang</u>**\*, Mazda Moayeri and Soheil Feizi (\*equal
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.  
 [[paper]](https://arxiv.org/abs/2505.23001)
 
-**Gaming Tool Preferences in Agentic LLMs**  
+**Tool Preferences in Agentic LLMs are Unreliable**  
 Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gaurang Sriramanan, Sriram Balasubramanian, Parsa Hosseini and Soheil Feizi (\*equal contribution)  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.  
 [[paper]](https://arxiv.org/abs/2505.18135)
