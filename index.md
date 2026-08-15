@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/wwx.jpeg
+  src: /assets/img/wwx_2026.jpg
   alt: website picture
 ---
 
@@ -11,22 +11,22 @@ I obtained my Ph.D. in Computer Science from University of Maryland in 2025, adv
 
 I was a research intern at Sony AI (summer 2023), working with Dr. [Weiming Zhuang](https://weiming.me) and Dr. [Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home?pli=1) in Privacy-Preserving Machine Learning (PPML) team; I was a research intern at Bytedance (summer 2022), working with Dr. [Linjie Yang](https://sites.google.com/site/linjieyang89/), Dr. [Heng Wang](https://hengcv.github.io) and Dr. [Yu Tian](https://scholar.google.com/citations?user=DxPjkDoAAAAJ); a research assistant at IIIS, Tsinghua University (2020-2021), working with Prof. [Hang Zhao](https://hangzhaomit.github.io) in his [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/#/); a visiting student researcher at UC Berkeley (2019), working with Dr. [Xinyun Chen](https://jungyhuk.github.io), Prof. [Ruoxi Jia](https://ruoxijia.info) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/); an intern in Bytedance AI Lab (2018), working with Dr. Yi He and Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
 
-## Preprints
+## Research & Writing
+
+**Improving the Cost-Quality Frontier for AI Agents**  
+Soheil Feizi, in collaboration with **<u>Wenxiao Wang</u>**  
+LinkedIn Article, August 13, 2026.  
+[[article]](https://www.linkedin.com/pulse/improving-costquality-frontier-ai-agents-soheil-feizi-xbr4e/)
+
+**Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0**  
+**<u>Wenxiao Wang</u>**, Priyatham Kattakinda and Soheil Feizi  
+Preprint, 2026.  
+[[arxiv]](https://arxiv.org/abs/2607.14004)
 
 **Maestro: Joint Graph & Config Optimization for Reliable AI Agents**  
 **<u>Wenxiao Wang</u>**, Priyatham Kattakinda and Soheil Feizi  
+Preprint, 2025.  
 [[arxiv]](https://arxiv.org/abs/2509.04642)
-
-**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**  
-**<u>Wenxiao Wang</u>**, Parsa Hosseini and Soheil Feizi  
-[[arxiv]](https://arxiv.org/abs/2504.20769)
-
-**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**  
-**<u>Wenxiao Wang</u>**, Weiming Zhuang and Lingjuan Lyu  
-[[arxiv]](https://arxiv.org/abs/2406.07536)
-
-
-## Publications
 
 **Towards Reliable Agentic LLMs**  
 **<u>Wenxiao Wang</u>**  
@@ -43,6 +43,11 @@ Kazem Faghih\*, **<u>Wenxiao Wang</u>**\*, Yize Cheng\*, Siddhant Bharti, Gauran
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.  
 [[paper]](https://arxiv.org/abs/2505.18135)
 
+**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**  
+**<u>Wenxiao Wang</u>**, Parsa Hosseini and Soheil Feizi  
+Preprint, 2025.  
+[[arxiv]](https://arxiv.org/abs/2504.20769)
+
 **Can AI-Generated Text be Reliably Detected?**  
 Vinu Sankar Sadasivan, Aounon Kumar, Sriram Balasubramanian, **<u>Wenxiao Wang</u>** and Soheil Feizi  
 Media Coverage: 
@@ -54,6 +59,11 @@ Media Coverage:
 [[UMD Science]](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)  
 Transactions on Machine Learning Research (**TMLR**), 2025.  
 [[paper]](https://arxiv.org/abs/2303.11156)
+
+**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**  
+**<u>Wenxiao Wang</u>**, Weiming Zhuang and Lingjuan Lyu  
+Preprint, 2024.  
+[[arxiv]](https://arxiv.org/abs/2406.07536)
 
 **Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks**  
 Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, **<u>Wenxiao Wang</u>** and Soheil Feizi  

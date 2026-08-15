@@ -5,7 +5,7 @@ title: Wenxiao Wang (汪文潇)
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of the site
 url: "https://wangwenxiao.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/wwx.jpeg
+og_image: /assets/img/wwx_2026.jpg
 #google_analytics: "UA-121636368-3"
 
 header:
